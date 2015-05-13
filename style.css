@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #990033;
 	padding: 20px;
 }
 
@@ -48,6 +48,7 @@
 	clear: left;
 	padding: 20px;
 	margin: 20px;
+	background: #66FFCC;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
@@ -62,7 +63,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #000000;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -73,6 +74,7 @@
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
+	background: #FFFF33;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
@@ -88,7 +90,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #33CC00;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
